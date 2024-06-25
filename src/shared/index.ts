@@ -1,14 +1,14 @@
 export const config = {
     logoCount: 5,
-    firebaseConfig: {
-        apiKey: "Your Firbase API Key",
-        authDomain: "Your Firbase authDomain",
-        projectId: "Your Firbase projectId",
-        storageBucket: "Your Firbase storageBucket",
-        messagingSenderId: "Your Firbase messagingSenderId",
-        appId: "Your Firbase appId",
-        measurementId: "Your Firbase measurementId"
-    },
+    const firebaseConfig = {
+  apiKey: "AIzaSyDuxTFZMJvaUWEMsFpfHRfkiInUupECcqk",
+  authDomain: "longmeet-lets-thango.firebaseapp.com",
+  projectId: "longmeet-lets-thango",
+  storageBucket: "longmeet-lets-thango.appspot.com",
+  messagingSenderId: "854552145848",
+  appId: "1:854552145848:web:1b7a2e3d5bbb7de89fa94d",
+  measurementId: "G-9WFXW4F757"
+};
     servers: {
         iceServers: [
             {
